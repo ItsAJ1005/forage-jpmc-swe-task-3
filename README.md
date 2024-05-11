@@ -2,6 +2,8 @@
 
 This is the starter repository for Task 3 of JPMC's Forage program.
 
+<img src="https://github.com/ItsAJ1005/forage-jpmc-swe-task-3/blob/main/jpmc%20swe%20task%20-%203.png?raw=true" width=600> 
+
 ### Instructions:
 
 1. **Fork and Clone**: Fork this repository to your GitHub account, then clone it to your local machine.
